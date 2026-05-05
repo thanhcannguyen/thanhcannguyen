@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Can</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;RESTful+API+%7C+JWT+Auth;Open+to+Internship" />
-</p>
-
 ---
 
 ## 🚀 About Me
 - 🎓 Final-year IT student  
-- 💻 Backend Developer  
-- ⚡ Building RESTful APIs with JWT  
-- 📚 Passionate about backend systems  
+- 💻 Backend Developer focused on Node.js, Express, and MongoDB  
+- ⚡ Building RESTful APIs with JWT authentication  
+- 📚 Interested in backend architecture, databases, and scalable systems   
 
 ---
 
@@ -33,6 +29,13 @@
 
 ## 📌 Projects
 
+### ☕ Coffee Ordering System
+- - Full-stack coffee ordering system with backend-focused implementation
+- 🔗 Demo: https://coffee-ordering-system-beta.vercel.app
+- 💻 GitHub: https://github.com/thanhcannguyen/coffee-ordering-system
+
+---
+
 ### 🛒 Mini Shop
 - E-commerce backend system  
 - 🔗 Demo: https://mini-shop-omega-drab.vercel.app  
@@ -53,8 +56,13 @@
   <a href="mailto:nguyenthanhcan3004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://github.com/thanhcannguyen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
-🔥 Open to Backend Internship opportunities
+🔥 Open to Backend Developer Internship opportunities
